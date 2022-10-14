@@ -1,0 +1,15 @@
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\bin\Debug\net6.0\Pr1.exe
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\bin\Debug\net6.0\Pr1.deps.json
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\bin\Debug\net6.0\Pr1.runtimeconfig.json
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\bin\Debug\net6.0\Pr1.dll
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\bin\Debug\net6.0\Pr1.pdb
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.csproj.AssemblyReference.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.AssemblyInfoInputs.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.AssemblyInfo.cs
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.csproj.CoreCompileInputs.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.dll
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\refint\Pr1.dll
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.pdb
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\Pr1.genruntimeconfig.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\Pr1\obj\Debug\net6.0\ref\Pr1.dll
