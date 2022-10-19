@@ -1,0 +1,15 @@
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\bin\Debug\net6.0\hw44.exe
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\bin\Debug\net6.0\hw44.deps.json
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\bin\Debug\net6.0\hw44.runtimeconfig.json
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\bin\Debug\net6.0\hw44.dll
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\bin\Debug\net6.0\hw44.pdb
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.csproj.AssemblyReference.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.AssemblyInfoInputs.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.AssemblyInfo.cs
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.csproj.CoreCompileInputs.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.dll
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\refint\hw44.dll
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.pdb
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\hw44.genruntimeconfig.cache
+C:\Users\anast\Desktop\Examples\HomeWorks\hw44\obj\Debug\net6.0\ref\hw44.dll
