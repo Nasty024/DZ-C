@@ -109,7 +109,7 @@ void ShowArray(double[] array)
     }
 }
 
-void NeChetn(double[] array)
+void Razn(double[] array)
 {
     double razn = 0;
     double max = array[0];
@@ -127,6 +127,6 @@ Console.WriteLine("Введите размер массива");
 int a = Convert.ToInt32(Console.ReadLine());
 double [] myArray = CreateRandomArray(a);
 ShowArray(myArray);
-NeChetn(myArray);
+Razn(myArray);
 
 
